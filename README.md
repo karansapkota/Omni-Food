@@ -1,0 +1,1 @@
+This is a responsive landing page for a fictional food delivery service called Omnifood. It is built using HTML and CSS. The page works well on all screen sizes and includes modern layout features like Flexbox, Grid, and animations.
